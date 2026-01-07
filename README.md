@@ -78,7 +78,7 @@ pnpm run dev
 
 ## 📬 Contact
 
-**Matías Rodríguez Cárdenas** - Systems Engineering Student
+**Matías Rodríguez Cárdenas** - Software Engineer
 
 * **LinkedIn:** [linkedin.com/in/matiasrodriguezc](https://www.linkedin.com/in/matiasrodriguezc)
 * **GitHub:** [@matiasrodriguezc](https://github.com/matiasrodriguezc)
