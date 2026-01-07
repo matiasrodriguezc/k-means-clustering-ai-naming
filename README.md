@@ -4,7 +4,7 @@
 
 This application is a **Generative BI tool** that bridges the gap between classic Machine Learning and Large Language Models. It doesn't just calculate clusters; it interprets them, providing human-readable insights for marketing and business strategy.
 
-[View Demo ([https://www.google.com/search?q=%23](https://k-means-clustering-ai-naming.vercel.app))
+View Demo ([Here](https://k-means-clustering-ai-naming.vercel.app))
 
 ---
 
